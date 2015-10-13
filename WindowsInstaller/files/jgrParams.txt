@@ -1,0 +1,3 @@
+--withPackages=DeducerRDSAnalyst
+--noSplash
+--rebrand=RDS Analyst,DeducerRDSAnalyst
